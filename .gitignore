@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.safetensors
+*.pth
+data/
+results/
